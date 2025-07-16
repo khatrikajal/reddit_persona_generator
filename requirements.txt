@@ -1,0 +1,7 @@
+praw
+pandas
+requests
+beautifulsoup4
+tqdm
+python-dotenv
+Pillow
